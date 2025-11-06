@@ -31,7 +31,7 @@
 
 - Directed the migration from monolith to microservices, and from Cassandra → Postgres in production.  
 - Implemented full CI/CD automation, secure API governance, and token-based access.  
-- Delivered anomaly detection for API usage patterns and integrated ML-driven insights into dashboards.  
+- Embedded the AI-powered “AutoTest Assist” capability in API Connect to automatically generate and execute thousands of API test requests for continuous quality insights.  
 - **Impact:** 300% efficiency gains in release cycles; revenue growth from $280M → $350M+.
 
 ---

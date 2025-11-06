@@ -1,8 +1,8 @@
 # sonia-mehta-ai-architect-portfolio
-#  Sonia Mehta — AI Architect (LLM)
+#  Sonia Mehta — AI Architect & Technical Leader | Building Agentic Workflows, LLM Applications for Healthcare & Enterprise Platforms | Ex-IBM, Epocrates
 
  Saratoga, CA  
-🔗 [LinkedIn](https://linkedin.com/in/soniamehta) | 💻 [GitHub](https://github.com/soniamehta) | ✉️ [Email Me](mailto:sonia.mehta@email.com)
+🔗 [LinkedIn](https://linkedin.com/in/sonia-mehta) | 💻 [GitHub](https://github.com/soniamehta) | ✉️ [Email Me](mailto:sonia.mehta@email.com)
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ### IBM Aspera — Predictive Data Transfer Analytics  
-**Stack:** Python, PyTorch, Kafka, Kubernetes, AWS/GCP/Azure  
+**Stack:** Python, PyTorch, Kafka, Kubernetes, Hybrid & Multi-Cloud (AWS/GCP/Azure/ICOS)
 
 - Led development of predictive analytics and anomaly detection for enterprise-scale data transfer.  
 - Built telemetry-based insights and predictive throughput optimization in real time.  

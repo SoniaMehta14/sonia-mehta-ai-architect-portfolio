@@ -1,12 +1,12 @@
 # sonia-mehta-ai-architect-portfolio
-# 🌟 Sonia Mehta — AI Architect (LLM)
+#  Sonia Mehta — AI Architect (LLM)
 
-📍 Santa Clara, CA  
+ Saratoga, CA  
 🔗 [LinkedIn](https://linkedin.com/in/soniamehta) | 💻 [GitHub](https://github.com/soniamehta) | ✉️ [Email Me](mailto:sonia.mehta@email.com)
 
 ---
 
-### 🧠 WeCare — AI Care Coordination Copilot  
+### AI Care Coordination Copilot  
 **Stack:** LangGraph, GPT-4, Whisper, FastAPI, AWS S3, MongoDB  
 
 - Architected a HIPAA-compliant LLM pipeline for care triage, documentation, and task automation.  
@@ -16,7 +16,7 @@
 
 ---
 
-### ⚡ IBM Aspera — Predictive Data Transfer Analytics  
+### IBM Aspera — Predictive Data Transfer Analytics  
 **Stack:** Python, PyTorch, Kafka, Kubernetes, AWS/GCP/Azure  
 
 - Led development of predictive analytics and anomaly detection for enterprise-scale data transfer.  
@@ -53,13 +53,13 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,aws,azure,gcp,docker,kubernetes,fastapi,git)
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 
 AI & ML-enabled Engineering and Product Leader with a track record of shipping scalable, compliant, and intelligent systems across enterprise, healthcare, and data platforms. Passionate about bridging applied AI with responsible deployment at scale.
 

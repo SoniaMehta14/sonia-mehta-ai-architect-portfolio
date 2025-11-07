@@ -2,7 +2,7 @@
 #  Sonia Mehta — AI Architect & Technical Leader | Building Agentic Workflows, LLM Applications for Healthcare & Enterprise Platforms | Ex-IBM, Epocrates
 
  Saratoga, CA  
-🔗 [LinkedIn](https://linkedin.com/in/sonia-mehta) | 💻 [GitHub](https://github.com/soniamehta) | ✉️ [Email Me](mailto:sonia.mehta@email.com)
+🔗 [LinkedIn](https://linkedin.com/in/sonia-mehta) | 💻 [GitHub](https://github.com/SoniaMehta14) | ✉️ [Email Me](mailto:sonia.mehta@email.com)
 
 ---
 
